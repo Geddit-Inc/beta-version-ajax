@@ -432,8 +432,8 @@ h1, h2, h3, h4, h5, h6,
   line-height: 1.1;
   color: inherit; }
 
-h1, .h1 {
-  font-size: 2.5rem; }
+/*h1, .h1 {
+  font-size: 2.5rem; }*/
 
 h2, .h2 {
   font-size: 2rem; }
@@ -2864,8 +2864,21 @@ header.navbar {
   header.navbar .dropdown-item {
     min-width: 180px; }
 
-
-
+.review-container {
+    background-color: rgba(255, 255, 255,0.3);
+}
+.review-cards {
+    margin: 0 auto;
+    margin-top: 3%;
+}
+.review-head {
+    background-color:rgba(84, 81, 76,0.9);
+    padding:15px;
+    color:white;
+    font-family:'Sacramento', cursive;
+    text-align: center;
+    font-size:45px;
+}
 .join-us-btn {
     margin:0 auto;
 }
