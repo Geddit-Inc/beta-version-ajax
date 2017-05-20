@@ -2882,6 +2882,9 @@ header.navbar {
 .join-us-btn {
     margin:0 auto;
 }
+.my-courses {
+    margin-left:10%;color:white;margin-top:8%;background-color:rgba(255, 255, 255,0.3);
+}
 .navbar-brand {
   color: #a4acb1; }
   .navbar-brand:focus, .navbar-brand:hover {
